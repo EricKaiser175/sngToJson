@@ -1,0 +1,13 @@
+C:\Users\Eric Kaiser\Desktop\sngTOjson\bin\Debug\sngTOjson.exe.config
+C:\Users\Eric Kaiser\Desktop\sngTOjson\bin\Debug\sngTOjson.exe
+C:\Users\Eric Kaiser\Desktop\sngTOjson\bin\Debug\sngTOjson.pdb
+C:\Users\Eric Kaiser\Desktop\sngTOjson\bin\Debug\sngTOjson.xml
+C:\Users\Eric Kaiser\Desktop\sngTOjson\obj\Debug\sngTOjson.vbprojAssemblyReference.cache
+C:\Users\Eric Kaiser\Desktop\sngTOjson\obj\Debug\sngTOjson.Resources.resources
+C:\Users\Eric Kaiser\Desktop\sngTOjson\obj\Debug\sngTOjson.vbproj.GenerateResource.cache
+C:\Users\Eric Kaiser\Desktop\sngTOjson\obj\Debug\sngTOjson.exe
+C:\Users\Eric Kaiser\Desktop\sngTOjson\obj\Debug\sngTOjson.xml
+C:\Users\Eric Kaiser\Desktop\sngTOjson\obj\Debug\sngTOjson.pdb
+C:\Users\Eric Kaiser\Desktop\sngTOjson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eric Kaiser\Desktop\sngTOjson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eric Kaiser\Desktop\sngTOjson\obj\Debug\sngTOjson.vbproj.CopyComplete
